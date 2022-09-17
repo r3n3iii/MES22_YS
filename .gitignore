@@ -1,0 +1,6 @@
+# Build Directory
+Debug/
+
+# STM32CubeMX files
+*.launch
+
